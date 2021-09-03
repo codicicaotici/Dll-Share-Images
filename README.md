@@ -2,6 +2,7 @@
 C# project. Read from a program images that are contained in an external library.
 
 What do I have to do now?
+
 I want to create a resource file containing images. Program and resource file must be independent.
 
 Solution
@@ -12,6 +13,7 @@ DllShareImages_Test: is a project that reads the images contained in the library
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Cosa devo fare adesso?
+
 Voglio creare un file risorse contente immagini. Programma e file risorse devono essere indipendenti.
 
 Soluzione
