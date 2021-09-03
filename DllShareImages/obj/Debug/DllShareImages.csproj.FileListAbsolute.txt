@@ -1,0 +1,8 @@
+D:\Disco_E\C#\Condividi\DllShareImages\bin\Debug\DllShareImages.dll
+D:\Disco_E\C#\Condividi\DllShareImages\bin\Debug\DllShareImages.pdb
+D:\Disco_E\C#\Condividi\DllShareImages\obj\Debug\DllShareImages.csproj.AssemblyReference.cache
+D:\Disco_E\C#\Condividi\DllShareImages\obj\Debug\DllShareImages.Properties.Resources.resources
+D:\Disco_E\C#\Condividi\DllShareImages\obj\Debug\DllShareImages.csproj.GenerateResource.cache
+D:\Disco_E\C#\Condividi\DllShareImages\obj\Debug\DllShareImages.csproj.CoreCompileInputs.cache
+D:\Disco_E\C#\Condividi\DllShareImages\obj\Debug\DllShareImages.dll
+D:\Disco_E\C#\Condividi\DllShareImages\obj\Debug\DllShareImages.pdb
